@@ -1,0 +1,33 @@
+{
+  "name": "git-iadd",
+  "version": "1.0.0",
+  "description": "Git plugin that allows you to interactively select which files to add to stage (git add)",
+  "bin": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruyadorno/git-iadd.git"
+  },
+  "keywords": [
+    "ipt",
+    "ipipeto",
+    "cli",
+    "interactive",
+    "git",
+    "inquirer",
+    "unix",
+    "terminal",
+    "workflow"
+  ],
+  "author": {
+    "name": "Ruy Adorno",
+    "url": "ruyadorno.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruyadorno/git-iadd/issues"
+  },
+  "homepage": "https://github.com/ruyadorno/git-iadd#readme",
+  "dependencies": {
+    "ipt": "^2.0.0"
+  }
+}
