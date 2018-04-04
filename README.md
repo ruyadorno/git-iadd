@@ -54,7 +54,7 @@ If you're already an **ipt** user that has it globally installed, you can get th
 - [ipt](https://www.npmjs.com/package/ipt) globally installed
 
 ```sh
-alias git-iadd="git status -s | sed s/^...// | ipt -m -M "Select files to add:" | xargs git add"
+alias git-iadd="git status -s | sed s/^...// | ipt -m -M 'Select files to add:' | xargs git add"
 ```
 
 ## License
