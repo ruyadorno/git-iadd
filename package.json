@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/ruyadorno/git-iadd#readme",
   "dependencies": {
-    "ipt": "^2.0.0"
+    "ipt": "^2.1.2"
   }
 }
