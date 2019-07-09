@@ -1,6 +1,6 @@
 {
   "name": "git-iadd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Git plugin that allows you to interactively select which files to add to stage (git add)",
   "bin": "cli.js",
   "files": [
